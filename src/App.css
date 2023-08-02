@@ -1,0 +1,32 @@
+label{
+    font-family: Arial, Helvetica, sans-serif;
+     font-size: large;
+     font-weight: 900;
+     margin: 40px;
+}
+input{
+    width:15%;
+    height:4vh ;
+
+    background:#f7e8c6;
+    color: #292626;
+}
+button{
+    border : none;
+    outline:none;
+    padding:.3em.5em;
+    cursor: pointer;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+form{
+ margin-left: 30%
+   
+}
+#item{
+    margin-left: 30%;
+    font-weight: 500;
+    
+}
